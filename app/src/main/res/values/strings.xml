@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Zoo</string>
+    <string name="action_settings">Settings</string>
+    <string name="login_entry">Log In</string>
+    <string name="drawer_open">Select an Item</string>
+    <string name="drawer_closed">Zoo</string>
+    <string name="section_exhibits">Exhibits</string>
+    <string name="section_gallery">Gallery</string>
+    <string name="section_map">Maps</string>
+    <string name="exhibits_feed">https://gist.githubusercontent.com/Aroniez/708c17d8911853ac387b/raw/7db551bf5d615be3dfea08ef6657f143f1bb02b4/</string>
+    <string name="gallery_feed">https://gist.githubusercontent.com/jesussmile/81070220dd5ef3f21787/raw/1e466e70d4599487ad3adfab87df218d3d30c739/</string>
+    <string name="pins_feed">https://gist.githubusercontent.com/anonymous/e8a1cca6b88a914984dff7a63400b71d/raw/77fa45c6690ce337d2d958aad8c8135eb17d925b/</string>
+    <string name="login_register">Account</string>
+    <string name="user_name">user name</string>
+    <string name="password">password</string>
+    <string name="login_button">Log In</string>
+    <string name="register_button"><u>Register Now</u></string>
+    <string name="register_form">Registration Form</string>
+    <string name="user_update">Update Account</string>
+    <string name="hint_reg">Do not have account yet?</string>
+</resources>
